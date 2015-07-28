@@ -4,7 +4,7 @@ Pueden encontrar el tutorial de este repo en
 
 {Tutorial – Creando una app con Ruby on rails Api, angularjs y Ionic Framework – BotiApps 1°Parte “el nacimiento”}[https://railsjavascriptyotrashiebas.wordpress.com/2015/07/27/tutorial-creando-una-app-con-ruby-on-rails-api-angularjs-y-ionic-framework-botiappsasi-1parte-el-nacimiento/]
 
-Antes de hechar de clonar:
+Antes de clonar:
 
 * Ruby version : 2.2.2
 
