@@ -1,28 +1,28 @@
-== README
+== Hola acá les dejo el repositorio del back-end en rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Pueden encontrar el tutorial de este repo en 
 
-Things you may want to cover:
+{Tutorial – Creando una app con Ruby on rails Api, angularjs y Ionic Framework – BotiApps 1°Parte “el nacimiento”}[https://railsjavascriptyotrashiebas.wordpress.com/2015/07/27/tutorial-creando-una-app-con-ruby-on-rails-api-angularjs-y-ionic-framework-botiappsasi-1parte-el-nacimiento/]
 
-* Ruby version
+Antes de hechar de clonar:
 
-* System dependencies
+* Ruby version : 2.2.2
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Rails version : 4.2.1
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+= EL primer tutorial hablamos de:
+
+* Creación de una app con rails-api
+
+* Hicimos un scaffold para el modelo STORE
+
+* Agregamos la gema para el manejo de CORS
+
+* Versionamiento de api.
+
+* Instalamos Yeoman, grunt, bower y un generador de angularjs.
+
+* Creamos nuestro scaffold FRONT END, {acá el repo front }[https://github.com/rocket4ce/botiApps-front]
+
+* Instalamos gema para crear latitud y longitud al poner la dirección real de la botilleria
